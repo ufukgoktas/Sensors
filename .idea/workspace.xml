@@ -4,17 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c69cb91-fc0c-4bd1-881c-34c56af1f3d4" name="Changes" comment="" />
+    <list default="true" id="4c69cb91-fc0c-4bd1-881c-34c56af1f3d4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ufukgoktas/KafkaConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ufukgoktas/KafkaConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ufukgoktas/KafkaSensorDataProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ufukgoktas/KafkaSensorDataProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ufukgoktas/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ufukgoktas/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ufukgoktas/SensorData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ufukgoktas/SensorData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ufukgoktas/SensorDataController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ufukgoktas/SensorDataController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ufukgoktas/SensorDataProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ufukgoktas/SensorDataProvider.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2UwQVEqD8TdPsvWYrU0YsgxmHnX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -24,10 +42,31 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/ufukgoktas/Desktop/Workspace/target-finder-app/Sensor",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Sensor" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Sensor" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -36,8 +75,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693848186513</updated>
-      <workItem from="1693848187877" duration="5000" />
+      <workItem from="1693848187877" duration="972000" />
+      <workItem from="1693849316500" duration="48000" />
+      <workItem from="1693851432760" duration="65000" />
+      <workItem from="1693851508488" duration="27000" />
+      <workItem from="1693851539051" duration="130000" />
+      <workItem from="1693851685222" duration="35000" />
+      <workItem from="1693851754278" duration="1969000" />
+      <workItem from="1693855593545" duration="819000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
