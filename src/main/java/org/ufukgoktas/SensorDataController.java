@@ -2,8 +2,12 @@ package org.ufukgoktas;
 
 import com.google.gson.Gson;
 
+import java.util.Properties;
+
 public class SensorDataController {
     public static void main(String[] args) {
+
+        Properties kafkaConfig = KafkaConfig.getConfig();
 
         SensorData sensor1Data = SensorDataProvider.generateSensorData("Sensor1", -5, 1, -1, 5);
         SensorData sensor2Data = SensorDataProvider.generateSensorData("Sensor2", 5, -1, -1, 5);
